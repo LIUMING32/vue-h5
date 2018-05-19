@@ -1,0 +1,68 @@
+@import "base.css"; 
+
+/*======== 公共部分 ========*/
+
+.font-eighteen{font-size: 18px;}
+.font-sixteen{font-size: 16px;}
+.font-fourteen{font-size: 14px;}
+.span-pub,.span-pub2{display: block;}
+.dis-block{display: block;}
+.userinfo a,.userinfo span,.span-pub2,.inlineblock{display: inline-block;}
+.project{text-align: left;}
+.width-half{width: 46%;padding: 0 2% 1%;float: left; }
+.width-thirty{width: 29.333%;padding:2%;float: left;}
+.div-model{background: #fff;padding: 0px 14px;margin: 0px 0 5px;overflow: hidden;}
+#homeTab .vux-tab-wrap{margin-top: 30px!important;padding-top:40px!important;}
+#homeTab .vux-tab,#homeTab .vux-tab-container{height: 40px!important;background:#f6f6f6!important;border-radius: 20px;}
+#homeTab .vux-tab-container{margin: 0 15px;}
+#homeTab .vux-tab .vux-tab-item{font-size: 0.36rem!important;line-height: 40px!important;font-weight: bold;}
+#homeTab .vux-tab-selected{background:#ffc900!important;border-radius: 20px;}
+.pubTab .vux-tab-wrap{padding-top:60px!important;}
+.pubTab .vux-tab,.pubTab .vux-tab-container{height: 60px!important;}
+.pubTab .vux-tab .vux-tab-item{font-size: 0.36rem!important;line-height: 60px!important;font-weight: bold;}
+.ellipsis{width:60%;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.guide{position: fixed;bottom: 0;width: 100%;height: 60px;line-height:60px;color:#fff;background:#ffcc00;}
+
+/*======== 个人主页 ========*/
+.defaults{background: #fff;color:#999;}
+.active{background: red;}
+h4{text-align: center;font-size:0.36rem;margin: 24px 0 18px;position: relative;}/*30px*/
+.userinfo {display: table-cell;vertical-align: middle;}
+.avatar img{width:50px;border-radius:50% ;display: inline-block; vertical-align: middle;border: 1px solid #999;}
+.introduce-pub {padding-bottom: 10px;}
+.introduce-pub 	ul{padding: 0px;overflow: hidden;}
+.introduce-pub 	ul li{text-align: center;}
+.introduce-pub 	ul li span{display:block;}
+.introduce-pub 	ul li span:nth-child(1),.font-big{font-size: 0.36rem;color: #000;font-weight: bold;}
+.introduce-pub 	ul li span:nth-child(2),.font-small,.font-big2{font-size: 0.30rem;color: #b4b4b4;}  
+.font-big2{font-weight: bold;}
+.introduce-dif{border-bottom:1px solid #eee;border-top: 1px solid #eee;padding:10px 0;}
+.experience li{margin-bottom: 20px;}
+.experience span{display: inline-block;margin-right: 10px;}
+.experience p{display: inline-block;color: #999;}  
+#swipercustom .swiper-pagination-bullets{bottom: 50px;}
+#swipercustom .swiper-pagination-bullet,.swiper-pagination-bullet button{width: 90px; height: 33px;border-radius:6px;}
+#swipercustom .swiper-pagination-bullet{background: none;opacity:1;margin:0 40px;}
+#swipercustom .swiper-pagination-bullet button{background:rgba(255,255,255,0.5); color: #fff;border: none;}
+#swipercustom .swiper-pagination-bullet-active button{background: rgba(255,255,255,1); color: #000;}
+.weui-wepay-flow, .weui-wepay-flow-auto{padding: 0px!important;}
+.weui-wepay-flow__li_done .weui-wepay-flow__state,.weui-wepay-flow__process{background: #000!important;}
+.weui-wepay-flow__bd{align-items:left!important;}
+/*======== 项目融资 ========*/
+.project{border-top: 1px dashed #eee;padding-bottom: 10px;}
+/*======== 星球通告 ========*/
+.apply-wrap{margin: 0px;padding-top: 20px;position: relative;}
+.ps-wrap{position: absolute;width: 30px;top:0;left:50%;margin-left:-15px;background: #fff;z-index: 2;padding: 10px;}
+.apply {border: 3px solid #eee;position: relative;}
+.apply h4{margin: 10px 0 5px 0;}
+.gray-div{height: 30px;line-height:30px;background: #eee;padding: 5px 10px;vertical-align: middle;}
+.gray-div a {display:inline-block;}
+.gray-div img{width: 20px;border-radius: 50%;margin: 0 5px;vertical-align: middle;}
+#comment li{border-bottom: 1px solid #eee;overflow: hidden;padding: 10px;}
+#comment p{background:#f6f6f6;}
+/*======== 文化产业 ========*/
+.background-img { background: no-repeat center; background-color:#fff;background-size: 100%;width: 100%;height:145px;position: relative;overflow: hidden;}
+.background-img span{position: absolute;bottom: 30px;left: 30px;}
+.background-img button{position: absolute;bottom: 30px;right: 30px;border: 1px solid #fff;background:none;color: #fff;}
+.dymic-bt{background: #fff;padding:15px;vertical-align:middle;}
+.dymic-bt span{display: inline-block;}

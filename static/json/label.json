@@ -1,0 +1,141 @@
+{
+    "user": {
+        "age": "年龄",
+        "nationality": "国籍",
+        "birthplace": "籍贯",
+        "nation": "民族",
+        "school": "毕业院校",
+        "telphone": "联系电话",
+        "role": "角色身份",
+        "investor": {
+            "company": "公司",
+            "position": "职位",
+            "type": "关注项目类型",
+            "theme": "关注项目题材",
+            "budget": "单笔投资预算"
+        },
+        "artist": {
+            "height": "身高",
+            "weight": "体重",
+            "specialty": "特长",
+            "signCompany": "签约公司",
+            "mobile": "手机号"
+        },
+        "producer": {
+            "years": "从业年限",
+            "representative": "代表作品"
+        },
+        "writer": {
+            "years": "从业年限",
+            "goodType": "擅长类型",
+            "goodTheme": "擅长题材",
+            "representative": "代表作品"
+        },
+        "dispersion": {
+            "company": "公司",
+            "position": "职位",
+            "resource": "资源优势"
+        },
+        "advertise": {
+            "company": "公司",
+            "position": "职位",
+            "years": "从业年限"
+        },
+        "filmPost": {
+            "years": "从业年限",
+            "skill": "擅长技能",
+            "representative": "代表作品"
+        },
+        "subdirector": {
+            "years": "从业年限"
+        }
+    },
+    "tab": {
+        "datum": "资料",
+        "dynamic": "动态"
+    },
+    "title": {
+        "introductions": "个人介绍",
+        "experience": "从业经历",
+        "production": "作品简历",
+        "honor": "获奖经历",
+        "custom": "自定义",
+        "comment":"最新评论"
+     
+    },
+    "filmRecruit": {
+        "filmRecruit": "影视招募",
+        "recruitRole": "招募角色",
+        "noticeIntro": "通告介绍",        
+        "recruitEnd": "招募截止",
+        "recruitAddr": "招募地址",
+        "recruitTel": "招募电话",
+        "applyView": "申请面试",
+        "storyIntro": "故事介绍",
+        "teamIntro": "团队介绍",
+        "uptime": "开机时间",
+        "location": "拍摄地点",
+        "shoots": "拍摄周期",
+        "productCompany": "出品公司"
+    },
+    "advertise": {
+        "advertise": "广告招募",
+        "workLocation": "工作地点"
+
+    },
+    "activity": {
+        "activity": "影视活动",
+        "activityIntro": "活动介绍",
+        "activityRegist": "活动报名",
+        "activityTime": "活动时间",
+        "activityAddr": "活动地址"
+                          
+    },
+    "culture": {
+        "culture": "文化产业",
+        "services": "服务范围",
+        "address": "地址",
+        "investment": "招商内容",
+        "partnering": "快速合作",
+        "detailsIntro": "详情介绍",
+        "supportPolicy": "扶持政策",
+        "supportService": "配套服务",
+        "tenants": "入驻企业",
+        "need": "合作需求"        
+    }, 
+    "orgnize": {
+        "orgnize": "影视机构",
+        "businessIntro": "业务介绍",
+        "tvWorks": "影视作品",
+        "artists": "旗下艺人"   
+    },
+    "tvTraining": {
+        "tvTraining": "影视培训",
+        "trainCourse": "培训课程",
+        "courseIntro": "课程介绍",
+        "teachTeam": "师资团队",  
+        "teachEnv": "教学环境",
+        "award": "奖项荣誉",
+        "students": "学员风采",
+        "employment": "就业推荐",   
+        "quickRegist": "快速报名"    
+    },
+    "overseas": {
+        "overseas": "海外市场",
+        "servicesIntro": "服务介绍",
+        "serviceAdv": "服务优势",
+        "successCase": "成功案例",   
+        "serviceProgress": "服务流程"       
+    },
+    "headline": {
+        "headline": "海星头条"
+    }                    
+}
+	
+		
+	
+	
+	
+	
+
+	
